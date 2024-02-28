@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVgph0Y0lx4QVm8wWkB8iKz5ERKJTLyRujT88PrfHua1f/C/6ZAcRlYoYFnFBe7vPQW62a5XESTnrCM4Aq6gqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sayap\\Downloads\\C#Projects\\MatchGame\\MatchGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sayap\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\sayap\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.2\\microsoft.netcore.app.runtime.win-x86.8.0.2.nupkg.sha512",
+    "C:\\Users\\sayap\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.2.nupkg.sha512",
+    "C:\\Users\\sayap\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x86.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
